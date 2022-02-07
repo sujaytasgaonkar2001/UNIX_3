@@ -1,0 +1,1 @@
+File and Record LockingMultiple processes performs read and write operation on the same file at the exact same time
